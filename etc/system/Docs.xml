@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<docs>
+    <doc>
+        <id>urn:org:netkernelbook:chapter</id>
+        <title>Guide to ExtJS Server</title>
+        <desc>extjs server explained</desc>
+        <uri>res:/resources/documentation/doc_guide.txt</uri>
+    </doc>
+</docs>

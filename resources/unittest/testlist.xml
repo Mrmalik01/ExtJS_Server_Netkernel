@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testlist>
+    <test name="Invoke ExtJS-3.3.1">
+        <request>
+            <identifier>res:/ExtJS-3.3.1/docs/index.html</identifier>
+        </request>
+
+        <assertDefinition name="validExtJS331">
+            <identifier>active:xpatheval</identifier>
+            <argument name="operand" tolerant="true">arg:test:result</argument>
+            <argument name="operator">
+                res:/resources/unittest/xpath/validExtJS331.xpath
+            </argument>
+        </assertDefinition>
+        <assert>
+            <validExtJS331 />
+        </assert>
+    </test>
+</testlist>

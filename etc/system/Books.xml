@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <book>
+        <id>book:urn:org:netkernelbook:chapter2:extjs_server</id>
+        <title>ExtJS Server</title>
+        <desc>netkernelbook chapter2 extjs server documentation</desc>
+        <toc>
+            <item id="urn:org:netkernelbook:chapter2:extjs_server:guide" />
+        </toc>
+    </book>
+</books>
